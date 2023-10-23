@@ -16,7 +16,7 @@ var currentMargin = 0;
 function changeMargin()
 {
     currentMargin++;
-    paragraph.style.margin = currentMargin + "px";
+    paragraph.style.margin = (currentMargin*-1) + "px";
 }
 
 function reset()
