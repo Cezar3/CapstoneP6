@@ -4,12 +4,12 @@ paragraph.innerHTML = "MY SANITY";
 paragraph.style.color = 'greenyellow';
 paragraph.style.background = "blue";
 
-function makeParagraphGreen()
+function makeParagraphRed()
 {
-paragraph.style.background ='green';
+paragraph.style.background ='red';
 }
 
-paragraph.onclick = makeParagraphGreen;
+paragraph.onclick = makeParagraphRed;
 
 var currentMargin = 0;
 
