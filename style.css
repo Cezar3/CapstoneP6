@@ -5,7 +5,7 @@ h1 {
     border-color:rgb(56, 36, 172)
   }
 h1 {
-    color: rgb(29, 17, 255);
+    color: rgb(187, 22, 22);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 400%;
   }
@@ -25,3 +25,9 @@ h4 {
   font-family:'Fantasy';
   font-size: 400%;
 }
+tr:nth-child(even) {
+  background-color: #dbf7f7;}
+  ol {
+    color: rgb(79, 30, 69);
+    font-family:'Fantasy';
+    font-size: 140%;}
