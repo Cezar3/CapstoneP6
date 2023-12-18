@@ -31,3 +31,18 @@ tr:nth-child(even) {
     color: rgb(79, 30, 69);
     font-family:'Fantasy';
     font-size: 140%;}
+h1 {   
+    padding-left: 80px;
+}
+h5 {   
+  padding-left: 100px;
+}
+h3 {   
+  padding-left: 80px;
+}
+h4 {   
+  padding-left: 80px;
+}
+td {   
+  padding-left: 80px;
+}
